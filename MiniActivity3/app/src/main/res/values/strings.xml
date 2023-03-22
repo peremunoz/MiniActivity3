@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SurtidoIntentImpl</string>
+    <string name="action_settings">Settings</string>
+    <string name="conociendo">Conociendo la EPS</string>
+    <string name="ubicando">Localizacion</string>
+    <string name="navegando">Acceso a la web</string>
+    <string name="contactando">Tlf. de contacto: 973.702.700</string>
+    <string name="Boton1">Por coord.</string>
+    <string name="Boton2">Por direcc.</string>
+    <string name="Boton3">Por URL</string>
+    <string name="Boton4">Google</string>
+    <string name="Boton5">Llamar</string>
+    <string name="Boton6">Acceder Contactos</string>
+    <string name="telef">666666666</string>
+
+    <string name="lat">41.60788</string>
+    <string name="lon">0.623333</string>
+    <string name="url">http://www.eps.udl.cat/</string>
+    <string name="direccion">Carrer de Jaume II, 69, Lleida</string>
+    <string name="textoABuscar">escuela politecnica superior UdL</string>
+
+    <string name="opcion1">Seleccionado Localizacion por coordenadas</string>
+    <string name="opcion2">Seleccionado Localizacion por dirección</string>
+    <string name="opcion3">Accediendo a la web</string>
+    <string name="opcion4">Buscando en Google</string>
+    <string name="opcion5">Llamando al Tlfn.</string>
+    <string name="opcion6">Accediendo a contactos</string>
+    <string name="opcion7">Accediendo a galería</string>
+    <string name="opcion8">Enviando SMS</string>
+    <string name="opcion9">Enviando email</string>
+    <string name="opcion10">Marcando numero</string>
+
+     <string name="callphone_permission_rationale">Call phone permission is needed for core functionality</string>
+
+    <string name="readcontacts_permission_rationale">Read contacts permission is needed for core functionality</string>
+
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+
+    <string name="settings">Settings</string>
+    <string name="link_eps">https://www.eps.udl.cat/ca/</string>
+    <string name="marcar_button">Marcar</string>
+    <string name="sms_dest">El SMS se enviará a 666</string>
+    <string name="send_sms">Enviar SMS</string>
+    <string name="email_dest">El email se enviará a test@test.test</string>
+    <string name="send_email">Enviar email</string>
+    <string name="access_galery">Acceder galería imágenes</string>
+
+
+</resources>
